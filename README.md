@@ -4,6 +4,8 @@ A clone of minesweeper in Python using Pygame
 
 A clone of the classic game minesweeper made in Python.
 
+![minesweeper-gif](./minesweeper_gif.gif)
+
 
 ### NOTES
 In main.py alter lines 310, 311, and 315 respectively to change the size of the grid and the number of bombs that will spawn.
